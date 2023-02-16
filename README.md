@@ -45,3 +45,4 @@ Run:
 python test_fusion_model.py --dataset_path=./test_images/Harvard --hasRGB=Inf --save_path=./fusion_results/Harvard --checkpoint=./checkpoint/Harvard/fusion_model_G_Harvard.pth
 ```
 
+If you have any questions, please create an issue.
